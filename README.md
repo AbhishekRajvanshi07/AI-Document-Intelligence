@@ -145,12 +145,4 @@ Swagger UI: `https://your-render-url.onrender.com/docs`
 
 ---
 
-## Free Tier Limits
-
-| Service | Free Limit |
-|---------|-----------|
-| Neon | 3 GB storage, 0.5 vCPU |
-| Upstash Redis | 10,000 commands/day |
-| Cloudflare R2 | 10 GB storage, 1M requests/month |
-| Render | 750 hours/month (spins down after 15min idle) |
-| Vercel | Unlimited for personal projects |
+Abhishek Kumar
